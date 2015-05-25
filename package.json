@@ -1,0 +1,15 @@
+{
+  "name": "pimusiq",
+  "version": "1.0.0",
+  "description": "An MEAN stack application to allow access to Spotify from a Raspberry PI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gordon Duthie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.9.2"
+  }
+}
